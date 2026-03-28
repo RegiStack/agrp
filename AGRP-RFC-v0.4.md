@@ -86,7 +86,7 @@ Example:
     ]
   }
 }
-´´´
+```
 
 # 5. Core Response Fields
 
